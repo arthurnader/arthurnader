@@ -1,4 +1,5 @@
-## 😁 Hi, I’m Arthur Pontes Nader. I live in Brazil and I am studying Computer Science at UFMG.
-## I’m interested in Data Science, Python, Pathfinding and OpenGL.
-## In the next semester of my undergraduate, I will learn Algorithms and Data Science. 
-## You can contact me by instagram (@arthurpnader) or by my public e-mail (arthur_nader@hotmail.com)
+👋 Hi there! I'm a computer scientist pursuing my master's degree at UFMG, diving deep into the realms of data science and machine learning. During my undergraduate journey, I focused on statistics for data science and explored various machine learning algorithms, uncovering their applications in computer vision, natural language processing, recommender systems, and reinforcement learning.
+
+I consider myself very creative, constantly generating innovative ideas and seeking efficient solutions to complex problems. My passion for continuous learning drives me to devour online courses, fueling my enthusiasm for staying on the cutting edge of technology.
+
+My current research involves fine-tuning a Large Language Model to perform a specific information retrieval task. Fingers crossed for its success! 🤞
